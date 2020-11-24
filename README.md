@@ -1,1 +1,1 @@
-# ArtificialIntelligence-MachineLearning-DeepLearning-Projects
+# MachineLearning-ArtificialIntelligence-DeepLearning-Projects
